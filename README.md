@@ -19,3 +19,15 @@ This is a simple Python program that calculates the Body Mass Index (BMI) using 
 -> Make sure Python is installed on your system
 -> Clone this repository or download the file
 -> Run the program using:
+            python bmi_calculator.py
+            
+🧮 BMI Formula
+
+-> BMI = weight (kg) / (height (m))²
+
+📊 BMI Categories
+
+-> Underweight: BMI < 18.5
+-> Normal weight: 18.5 – 24.9
+-> Overweight: 25 – 29.9
+-> Obese: BMI ≥ 30
