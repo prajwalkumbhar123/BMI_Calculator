@@ -1,2 +1,15 @@
-# BMI_Calculator
-A simple Python program that calculates Body Mass Index (BMI) using a user’s height and weight, then displays the BMI value along with its health category.
+BMI Calculator (Python)
+
+📌 Description
+This is a simple Python program that calculates the Body Mass Index (BMI) using the user’s height and weight, then displays the BMI value along with the corresponding health category.
+
+🛠️ Features
+
+-> Takes user input for height and weight
+-> Calculates BMI accurately
+-> Displays BMI category (Underweight, Normal, Overweight, Obese)
+-> Includes basic input validation
+
+📂 Technologies Used
+
+-> Python 3
