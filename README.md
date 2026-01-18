@@ -13,3 +13,9 @@ This is a simple Python program that calculates the Body Mass Index (BMI) using 
 📂 Technologies Used
 
 -> Python 3
+
+▶️ How to Run
+
+-> Make sure Python is installed on your system
+-> Clone this repository or download the file
+-> Run the program using:
