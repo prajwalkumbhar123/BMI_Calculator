@@ -1,5 +1,3 @@
-# BMI Calculator in Python
-
 def calculate_bmi(weight, height):
     return weight / (height ** 2)
 
@@ -26,3 +24,4 @@ try:
 
 except ValueError:
     print("Please enter valid numeric values.")
+
