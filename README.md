@@ -1,33 +1,75 @@
-BMI Calculator (Python)
+# 🧮 BMI Calculator (Python)
 
-📌 Description
-This is a simple Python program that calculates the Body Mass Index (BMI) using the user’s height and weight, then displays the BMI value along with the corresponding health category.
+A simple **Body Mass Index (BMI) Calculator** built using Python.  
+This program takes a user’s **weight** and **height** as input, calculates their BMI, and displays the corresponding **health category**.
 
-🛠️ Features
+---
 
--> Takes user input for height and weight
--> Calculates BMI accurately
--> Displays BMI category (Underweight, Normal, Overweight, Obese)
--> Includes basic input validation
+## 📌 Features
 
-📂 Technologies Used
+- Takes weight in **kilograms (kg)**
+- Takes height in **meters (m)**
+- Calculates BMI using the standard formula
+- Displays BMI up to **2 decimal places**
+- Classifies BMI into:
+  - Underweight
+  - Normal weight
+  - Overweight
+  - Obese
+- Handles invalid and non-numeric inputs gracefully
 
--> Python 3
+---
 
-▶️ How to Run
+## 🧠 BMI Formula Used
 
--> Make sure Python is installed on your system
--> Clone this repository or download the file
--> Run the program using:
-            python bmi_calculator.py
-            
-🧮 BMI Formula
+BMI = weight / (height × height)
 
--> BMI = weight (kg) / (height (m))²
+---
 
-📊 BMI Categories
+## 🧪 BMI Categories
 
--> Underweight: BMI < 18.5
--> Normal weight: 18.5 – 24.9
--> Overweight: 25 – 29.9
--> Obese: BMI ≥ 30
+| BMI Range | Category |
+|----------|----------|
+| Below 18.5 | Underweight |
+| 18.5 – 24.9 | Normal weight |
+| 25.0 – 29.9 | Overweight |
+| 30.0 and above | Obese |
+
+---
+
+## ▶️ How to Run the Program
+
+1. Make sure Python is installed on your system  
+2. Clone this repository or download the file  
+3. Open a terminal in the project folder  
+4. Run the program:
+
+python bmi_calculator.py
+
+---
+
+## 📥 Sample Input
+
+Enter your weight (in kg): 70  
+Enter your height (in meters): 1.75  
+
+---
+
+## 📤 Sample Output
+
+Your BMI is: 22.86  
+Category: Normal weight  
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3
+
+---
+
+## 📄 License
+
+This project is open-source and free to use for learning and practice.
+
+⭐ If you like this project, don’t forget to **star the repository**!
