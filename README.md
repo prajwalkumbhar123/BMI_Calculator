@@ -7,7 +7,7 @@ This program takes a user’s **weight** and **height** as input, calculates the
 
 ## 📌 Features
 
-- Takes weight in **kilograms (kg)**
+- Takes weight in **kilograms (kg)
 - Takes height in **meters (m)**
 - Calculates BMI using the standard formula
 - Displays BMI up to **2 decimal places**
@@ -15,7 +15,6 @@ This program takes a user’s **weight** and **height** as input, calculates the
   - Underweight
   - Normal weight
   - Overweight
-  - Obese
 - Handles invalid and non-numeric inputs gracefully
 
 ---
