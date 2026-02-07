@@ -67,8 +67,3 @@ Category: Normal weight
 
 ---
 
-## 📄 License
-
-This project is open-source and free to use for learning and practice.
-
-⭐ If you like this project, don’t forget to **star the repository**!
