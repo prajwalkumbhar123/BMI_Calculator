@@ -24,4 +24,3 @@ try:
 
 except ValueError:
     print("Please enter valid numeric values.")
-
